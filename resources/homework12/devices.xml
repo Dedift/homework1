@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Devices>
+    <devices id="KS3934JS234">
+        <name>CPU</name>
+        <origin>China</origin>
+        <price>212.32</price>
+        <type>
+            <peripheral>false</peripheral>
+            <presenceOfCooler>true</presenceOfCooler>
+            <EnergyConsumption>12</EnergyConsumption>
+        </type>
+        <critical>true</critical>
+    </devices>
+    <devices id="KFYL4969JS898">
+        <name>Monitor</name>
+        <origin>China</origin>
+        <price>242.83</price>
+        <type>
+            <peripheral>true</peripheral>
+            <presenceOfCooler>false</presenceOfCooler>
+            <EnergyConsumption>22</EnergyConsumption>
+        </type>
+        <critical>false</critical>
+    </devices>
+    <devices id="LHEP7900KY686">
+        <name>Microphone</name>
+        <origin>Russia</origin>
+        <price>345.23</price>
+        <type>
+            <peripheral>true</peripheral>
+            <presenceOfCooler>false</presenceOfCooler>
+            <EnergyConsumption>123</EnergyConsumption>
+        </type>
+        <critical>false</critical>
+    </devices>
+    <devices id="UMOD5308PO768">
+        <name>Mouse</name>
+        <origin>Russia</origin>
+        <price>110.85</price>
+        <type>
+            <peripheral>true</peripheral>
+            <presenceOfCooler>false</presenceOfCooler>
+            <EnergyConsumption>23</EnergyConsumption>
+        </type>
+        <critical>false</critical>
+    </devices>
+    <devices id="KSPA0135JI678">
+        <name>HDD</name>
+        <origin>Russia</origin>
+        <price>222.63</price>
+        <type>
+            <peripheral>false</peripheral>
+            <presenceOfCooler>true</presenceOfCooler>
+            <EnergyConsumption>12</EnergyConsumption>
+        </type>
+        <critical>true</critical>
+    </devices>
+    <devices id="USPA4698GU570">
+        <name>DVDDrive</name>
+        <origin>Belarus</origin>
+        <price>121.63</price>
+        <type>
+            <peripheral>true</peripheral>
+            <presenceOfCooler>false</presenceOfCooler>
+            <EnergyConsumption>3</EnergyConsumption>
+        </type>
+        <critical>false</critical>
+    </devices>
+    <devices id="UVSR9080QY468">
+        <name>Case</name>
+        <origin>China</origin>
+        <price>153.21</price>
+        <type>
+            <peripheral>false</peripheral>
+            <presenceOfCooler>false</presenceOfCooler>
+            <EnergyConsumption>0</EnergyConsumption>
+        </type>
+        <critical>false</critical>
+    </devices>
+    <devices id="JSNA7800PF789">
+        <name>BlueRayDrive</name>
+        <origin>Belarus</origin>
+        <price>124.32</price>
+        <type>
+            <peripheral>true</peripheral>
+            <presenceOfCooler>false</presenceOfCooler>
+            <EnergyConsumption>5</EnergyConsumption>
+        </type>
+        <critical>false</critical>
+    </devices>
+    <devices id="LODP8987NU689">
+        <name>GraphicsCard</name>
+        <origin>Belarus</origin>
+        <price>221.74</price>
+        <type>
+            <peripheral>false</peripheral>
+            <presenceOfCooler>true</presenceOfCooler>
+            <EnergyConsumption>42</EnergyConsumption>
+        </type>
+        <critical>true</critical>
+    </devices>
+    <devices id="PHVJ7948TI950">
+        <name>Headphones</name>
+        <origin>China</origin>
+        <price>122.35</price>
+        <type>
+            <peripheral>true</peripheral>
+            <presenceOfCooler>false</presenceOfCooler>
+            <EnergyConsumption>25</EnergyConsumption>
+        </type>
+        <critical>false</critical>
+    </devices>
+    <devices id="FYJO7830RI684">
+        <name>Keyboard</name>
+        <origin>China</origin>
+        <price>200.46</price>
+        <type>
+            <peripheral>true</peripheral>
+            <presenceOfCooler>false</presenceOfCooler>
+            <EnergyConsumption>43</EnergyConsumption>
+        </type>
+        <critical>false</critical>
+    </devices>
+    <devices id="FHSN8790NS789">
+        <name>Motherboard</name>
+        <origin>Russia</origin>
+        <price>243.72</price>
+        <type>
+            <peripheral>false</peripheral>
+            <presenceOfCooler>true</presenceOfCooler>
+            <EnergyConsumption>72</EnergyConsumption>
+        </type>
+        <critical>true</critical>
+    </devices>
+    <devices id="PNYJ5795PK697">
+        <name>PowerUnit</name>
+        <origin>China</origin>
+        <price>125.85</price>
+        <type>
+            <peripheral>false</peripheral>
+            <presenceOfCooler>false</presenceOfCooler>
+            <EnergyConsumption>67</EnergyConsumption>
+        </type>
+        <critical>true</critical>
+    </devices>
+    <devices id="LOPN6729KI47">
+        <name>RAM</name>
+        <origin>China</origin>
+        <price>125.83</price>
+        <type>
+            <peripheral>false</peripheral>
+            <presenceOfCooler>true</presenceOfCooler>
+            <EnergyConsumption>52</EnergyConsumption>
+        </type>
+        <critical>true</critical>
+    </devices>
+    <devices id="VBSI6786HD795">
+        <name>SSD</name>
+        <origin>China</origin>
+        <price>256.92</price>
+        <type>
+            <peripheral>false</peripheral>
+            <presenceOfCooler>true</presenceOfCooler>
+            <EnergyConsumption>35</EnergyConsumption>
+        </type>
+        <critical>true</critical>
+    </devices>
+</Devices>

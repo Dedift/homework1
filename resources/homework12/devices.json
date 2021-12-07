@@ -1,0 +1,168 @@
+{
+  "devices" : [ {
+    "name" : "CPU",
+    "origin" : "China",
+    "price" : "212.32",
+    "critical" : true,
+    "id" : "KS3934JS234",
+    "type" : {
+      "peripheral" : false,
+      "presenceOfCooler" : true,
+      "energyConsumption" : 12
+    }
+  }, {
+    "name" : "Monitor",
+    "origin" : "China",
+    "price" : "242.83",
+    "critical" : false,
+    "id" : "KFYL4969JS898",
+    "type" : {
+      "peripheral" : true,
+      "presenceOfCooler" : false,
+      "energyConsumption" : 22
+    }
+  }, {
+    "name" : "Microphone",
+    "origin" : "Russia",
+    "price" : "345.23",
+    "critical" : false,
+    "id" : "LHEP7900KY686",
+    "type" : {
+      "peripheral" : true,
+      "presenceOfCooler" : false,
+      "energyConsumption" : 123
+    }
+  }, {
+    "name" : "Mouse",
+    "origin" : "Russia",
+    "price" : "110.85",
+    "critical" : false,
+    "id" : "UMOD5308PO768",
+    "type" : {
+      "peripheral" : true,
+      "presenceOfCooler" : false,
+      "energyConsumption" : 23
+    }
+  }, {
+    "name" : "HDD",
+    "origin" : "Russia",
+    "price" : "222.63",
+    "critical" : true,
+    "id" : "KSPA0135JI678",
+    "type" : {
+      "peripheral" : false,
+      "presenceOfCooler" : true,
+      "energyConsumption" : 12
+    }
+  }, {
+    "name" : "DVDDrive",
+    "origin" : "Belarus",
+    "price" : "121.63",
+    "critical" : false,
+    "id" : "USPA4698GU570",
+    "type" : {
+      "peripheral" : true,
+      "presenceOfCooler" : false,
+      "energyConsumption" : 3
+    }
+  }, {
+    "name" : "Case",
+    "origin" : "China",
+    "price" : "153.21",
+    "critical" : false,
+    "id" : "UVSR9080QY468",
+    "type" : {
+      "peripheral" : false,
+      "presenceOfCooler" : false,
+      "energyConsumption" : 0
+    }
+  }, {
+    "name" : "BlueRayDrive",
+    "origin" : "Belarus",
+    "price" : "124.32",
+    "critical" : false,
+    "id" : "JSNA7800PF789",
+    "type" : {
+      "peripheral" : true,
+      "presenceOfCooler" : false,
+      "energyConsumption" : 5
+    }
+  }, {
+    "name" : "GraphicsCard",
+    "origin" : "Belarus",
+    "price" : "221.74",
+    "critical" : true,
+    "id" : "LODP8987NU689",
+    "type" : {
+      "peripheral" : false,
+      "presenceOfCooler" : true,
+      "energyConsumption" : 42
+    }
+  }, {
+    "name" : "Headphones",
+    "origin" : "China",
+    "price" : "122.35",
+    "critical" : false,
+    "id" : "PHVJ7948TI950",
+    "type" : {
+      "peripheral" : true,
+      "presenceOfCooler" : false,
+      "energyConsumption" : 25
+    }
+  }, {
+    "name" : "Keyboard",
+    "origin" : "China",
+    "price" : "200.46",
+    "critical" : false,
+    "id" : "FYJO7830RI684",
+    "type" : {
+      "peripheral" : true,
+      "presenceOfCooler" : false,
+      "energyConsumption" : 43
+    }
+  }, {
+    "name" : "Motherboard",
+    "origin" : "Russia",
+    "price" : "243.72",
+    "critical" : true,
+    "id" : "FHSN8790NS789",
+    "type" : {
+      "peripheral" : false,
+      "presenceOfCooler" : true,
+      "energyConsumption" : 72
+    }
+  }, {
+    "name" : "PowerUnit",
+    "origin" : "China",
+    "price" : "125.85",
+    "critical" : true,
+    "id" : "PNYJ5795PK697",
+    "type" : {
+      "peripheral" : false,
+      "presenceOfCooler" : false,
+      "energyConsumption" : 67
+    }
+  }, {
+    "name" : "RAM",
+    "origin" : "China",
+    "price" : "125.83",
+    "critical" : true,
+    "id" : "LOPN6729KI47",
+    "type" : {
+      "peripheral" : false,
+      "presenceOfCooler" : true,
+      "energyConsumption" : 52
+    }
+  }, {
+    "name" : "SSD",
+    "origin" : "China",
+    "price" : "256.92",
+    "critical" : true,
+    "id" : "VBSI6786HD795",
+    "type" : {
+      "peripheral" : false,
+      "presenceOfCooler" : true,
+      "energyConsumption" : 35
+    }
+  } ]
+}
