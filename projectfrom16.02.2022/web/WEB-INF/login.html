@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login page</title>
+    <link rel="stylesheet" href="resources/static/css/design.css">
+</head>
+<body>
+<form class="formDesign" method="post" action="/frontController" enctype="application/x-www-form-urlencoded">
+    <input type="hidden" name="command" value="loginUser">
+    <label for="login">Username</label>
+    <input id="login" type="email" name="username" placeholder="Enter login here" required><br>
+    <label for="pass">Password</label>
+    <input id="pass" type="password" name="password" placeholder="Enter password here" required><br>
+    <label for="userRadio">USER</label>
+    <input id="userRadio" type="radio" name="role" value="user">
+    <label for="adminRadio">ADMIN</label>
+    <input id="adminRadio" type="radio" name="role" value="admin"><br>
+
+    <input type="submit" name="submit">
+</form>
+</body>
+</html>
